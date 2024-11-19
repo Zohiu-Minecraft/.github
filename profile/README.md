@@ -1,1 +1,2 @@
-## This is where I put plugins made for others so they aren't on my personal profile
+## Zohiu Minecraft
+This is where I put all my repos related to Minecraft.
